@@ -1,0 +1,8 @@
+spark-kafka-streaming/
+├── kafka/
+│   └── producer.py
+├── spark/
+│   └── stream_processor.py
+├── configs/
+│   └── spark_config.json
+├── README.md
